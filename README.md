@@ -67,8 +67,4 @@ Use `.filter` to get an array of movies where Sigourney Weaver was a cast member
 
 ## BONUS
 
-`.sort` the movies by year so they begin with the earliest year and end with the latest.
-
-## BONUS
-
 Write code that finds the average runtime for the movies.
