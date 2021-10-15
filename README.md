@@ -47,7 +47,7 @@ const movies = [
 ]
 ```
 
-You can do this by opening up a repl, working directly in the console, or by running files with node (for example, `node index.js`).
+You can do this by opening up a repl, working directly in the console, or by running files with node (for example, `node index.js`). Once you've finished you do not need to submit this assignment.
 
 ## Challenge One
 
@@ -59,7 +59,7 @@ Which method did you use and why?
 
 Use `.find` in order to find the first movie made after 1980. Use `.filter` to find every movie made after 1980.
 
-What's the difference between `.find` and `.filter`?
+What's the difference between `.find` and `.filter`? What does each return?
 
 ## Challenge Three
 
